@@ -1,0 +1,13 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+  background: #0c133a;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+}
